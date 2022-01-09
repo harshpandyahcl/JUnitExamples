@@ -1,1 +1,1 @@
-# JUnitExamples
+# Please check the master branch.
